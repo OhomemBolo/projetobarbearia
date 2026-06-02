@@ -1,10 +1,11 @@
 h1{
     color:rgb(0, 0, 0);
-background-color: rgba(255, 0, 179, 0.329);    
+background-color: 
+rgba(245, 168, 222, 0.897);    
 
 }
 body{
-background-color: rgb(241, 193, 223);
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ONslpQSwkvpwQjmO96bVP5jPp794LMeOCA&s) ;
 
 
 }
@@ -12,5 +13,13 @@ background-color: rgb(241, 193, 223);
 
 
 img{
-    width: 600px;
+    width: 478px;
+}
+
+.imagem{
+    text-align: center;
+    border-style: dotted;
+    border-radius: 50px;
+    margin: auto;
+    boder
 }
