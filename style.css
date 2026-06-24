@@ -1,7 +1,6 @@
 h1{
     color:rgb(0, 0, 0);
-background-color: 
-rgba(245, 168, 222, 0.897);    
+background-color:rgba(245, 168,  222, 0.897);    
 
 }
 body{
@@ -16,7 +15,7 @@ img{
     width: 478px;
 }
 
-.imagem{
+imagem{
     text-align: center;
     border-style: dotted;
     border-radius: 50px;
