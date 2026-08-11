@@ -54,3 +54,31 @@ border: 2px solid rgb(200, 117, 216);
     font-weight: bold;
     margin-top: 10px
 }
+.servicos img {
+    width: 200px;
+}
+nav a:hover{
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+}
+.servicos li:hover{
+    border-color:rgb(0, 0, 0)
+}
+.servicos li:active{
+    border-color:brown;
+}
+.servicos li:hover h2{
+    font-size: 34px; 
+} 
+footer{
+    text-align: center;
+    background-color:aqua;
+    padding: 40px 0;
+}
+footer img{
+    width: 100px;
+}
+.copyright{
+    color:black;
+    font-size: 13px;
+    margin: 20px
