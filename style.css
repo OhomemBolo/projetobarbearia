@@ -132,3 +132,14 @@ footer img{
          border-color:blueviolet;
     }
 }
+.imagem{
+color:rgb(29, 63, 255)
+}
+.mapa h2{
+font-size: 50px;
+}
+.mapa iframe{
+    box-sizing: border-box;
+    border-color: blueviolet;
+    border-radius: 30px;
+}
